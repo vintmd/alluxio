@@ -24,6 +24,7 @@
 
   <modules>
     <module>cos</module>
+    <module>chdfs</module>
     <module>gcs</module>
     <module>hdfs</module>
     <module>kodo</module>
